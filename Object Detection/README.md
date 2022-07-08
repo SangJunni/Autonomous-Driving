@@ -2,11 +2,11 @@
 
 # main_project
 
-## 파이썬(코랩 활용)
+## 1.파이썬(코랩 활용)
 
 1. Detectron2를 이용한 DeepFashion2 데이터셋 학습 및 테스트
 
-## Matlab
+## 2.Matlab(로컬 GPU 활용)
 
 2. Pretrained Efficientnet을 활용한 DeepFashion2 재학습  
 * 코드1: 전이학습을 위한 일련의 코드
