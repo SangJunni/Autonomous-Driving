@@ -14,8 +14,16 @@
 * 복장이 일치하지 않는 사람이 확인된 경우 해당 사람에게 다가가서 회사 혹은 단체에서 발급된 RFID 카드등을 인식 할 수 있도록 요구
 * 요구에 응하지 않을 시, 경보를 발생하도록 하는 기능을 넣으면 좋을 것 같다는 의견이 있음
 * 만약에 수상한 사람이면 이미 검사했던 사람도 반복적으로 검사 시행  
-[PurePursuit](Pure_Pursuit.mp4)   
-https://user-images.githubusercontent.com/79644050/178984304-a21c3f0e-ba40-4251-90ee-13d46810c421.mp4  
+
+![Pure_Pursuit](https://user-images.githubusercontent.com/79644050/178985521-ecac53fa-21e8-40a5-a079-009cff883184.gif)  
+
+
+
+
+https://user-images.githubusercontent.com/79644050/178986207-ff2fdefd-d979-40e6-ad9d-700054354001.mp4
+
+
+
 
 
 
