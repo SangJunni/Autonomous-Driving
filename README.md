@@ -24,10 +24,11 @@ https://user-images.githubusercontent.com/79644050/178986207-ff2fdefd-d979-40e6-
 
 
 
-
-
-
 3.CCTV에서 사람이 이동한 방향등을 참고하여 미아찾기 로봇이 갈 방향에 대한 정보를 준다.
 * (ex)사람이 CCTV에서 오른쪽으로 사라지는게 마지막으로 찍힘 => 로봇도 또한 그쪽으로 가도록 정보를 주어 로봇을 유도
+
+
+https://user-images.githubusercontent.com/79644050/178987448-8898ac03-a624-447e-bc0b-481b5a277ef5.mp4
+
 
 --- 
